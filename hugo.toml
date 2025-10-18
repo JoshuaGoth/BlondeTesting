@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 title = "Blonde"
-author = "wamo"
+author = "Joshua Goth"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true

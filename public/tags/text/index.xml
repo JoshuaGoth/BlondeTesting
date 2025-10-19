@@ -6,35 +6,56 @@
     <description>Recent content in Text on The Objective Perspective.  A blog for the Mindful. </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Oct 2025 00:12:36 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 13:06:40 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/text/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Baffle</title>
-      <link>http://localhost:1313/post/baffle/</link>
-      <pubDate>Sun, 19 Oct 2025 00:12:36 -0700</pubDate>
-      <guid>http://localhost:1313/post/baffle/</guid>
+      <title>Three</title>
+      <link>http://localhost:1313/post/three/</link>
+      <pubDate>Sun, 19 Oct 2025 13:06:40 -0700</pubDate>
+      <guid>http://localhost:1313/post/three/</guid>
       <description></description>
     </item>
     <item>
-      <title>Crow</title>
-      <link>http://localhost:1313/post/crow/</link>
-      <pubDate>Sat, 18 Oct 2025 23:52:14 -0700</pubDate>
-      <guid>http://localhost:1313/post/crow/</guid>
+      <title>Break</title>
+      <link>http://localhost:1313/post/break/</link>
+      <pubDate>Sun, 19 Oct 2025 13:03:40 -0700</pubDate>
+      <guid>http://localhost:1313/post/break/</guid>
       <description></description>
     </item>
     <item>
-      <title>Moremoremore</title>
-      <link>http://localhost:1313/post/moremoremore/</link>
-      <pubDate>Sat, 18 Oct 2025 23:44:23 -0700</pubDate>
-      <guid>http://localhost:1313/post/moremoremore/</guid>
+      <title>Date</title>
+      <link>http://localhost:1313/post/date/</link>
+      <pubDate>Sun, 19 Oct 2025 12:50:29 -0700</pubDate>
+      <guid>http://localhost:1313/post/date/</guid>
+      <description>&lt;p&gt;This is a date test&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>One</title>
+      <link>http://localhost:1313/post/one/</link>
+      <pubDate>Sun, 19 Oct 2025 12:41:45 -0700</pubDate>
+      <guid>http://localhost:1313/post/one/</guid>
       <description></description>
     </item>
     <item>
-      <title>Layout Testing</title>
-      <link>http://localhost:1313/post/layout-testing/</link>
-      <pubDate>Sat, 18 Oct 2025 09:40:21 -0700</pubDate>
-      <guid>http://localhost:1313/post/layout-testing/</guid>
-      <description>&lt;p&gt;This is a test post to see how this will be formatted on the site and if I will have an image.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lets-add-some-markdown&#34;&gt;Lets add some markdown&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;MarkDown&lt;/strong&gt; testing text.&lt;/p&gt;</description>
+      <title>Anotherslug</title>
+      <link>http://localhost:1313/post/anotherslug/</link>
+      <pubDate>Sun, 19 Oct 2025 12:39:56 -0700</pubDate>
+      <guid>http://localhost:1313/post/anotherslug/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Newslug</title>
+      <link>http://localhost:1313/post/newslug/</link>
+      <pubDate>Sun, 19 Oct 2025 12:35:48 -0700</pubDate>
+      <guid>http://localhost:1313/post/newslug/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Testslug</title>
+      <link>http://localhost:1313/post/testslug/</link>
+      <pubDate>Sun, 19 Oct 2025 12:33:09 -0700</pubDate>
+      <guid>http://localhost:1313/post/testslug/</guid>
+      <description></description>
     </item>
     <item>
       <title>Placeholder Text</title>

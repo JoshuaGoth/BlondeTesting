@@ -6,56 +6,56 @@
     <description>Recent content on The Objective Perspective.  A blog for the Mindful. </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Oct 2025 00:12:36 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 13:06:40 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Baffle</title>
-      <link>http://localhost:1313/post/baffle/</link>
-      <pubDate>Sun, 19 Oct 2025 00:12:36 -0700</pubDate>
-      <guid>http://localhost:1313/post/baffle/</guid>
+      <title>Three</title>
+      <link>http://localhost:1313/post/three/</link>
+      <pubDate>Sun, 19 Oct 2025 13:06:40 -0700</pubDate>
+      <guid>http://localhost:1313/post/three/</guid>
       <description></description>
     </item>
     <item>
-      <title>Crow</title>
-      <link>http://localhost:1313/post/crow/</link>
-      <pubDate>Sat, 18 Oct 2025 23:52:14 -0700</pubDate>
-      <guid>http://localhost:1313/post/crow/</guid>
+      <title>Break</title>
+      <link>http://localhost:1313/post/break/</link>
+      <pubDate>Sun, 19 Oct 2025 13:03:40 -0700</pubDate>
+      <guid>http://localhost:1313/post/break/</guid>
       <description></description>
     </item>
     <item>
-      <title>Moremoremore</title>
-      <link>http://localhost:1313/post/moremoremore/</link>
-      <pubDate>Sat, 18 Oct 2025 23:44:23 -0700</pubDate>
-      <guid>http://localhost:1313/post/moremoremore/</guid>
+      <title>Date</title>
+      <link>http://localhost:1313/post/date/</link>
+      <pubDate>Sun, 19 Oct 2025 12:50:29 -0700</pubDate>
+      <guid>http://localhost:1313/post/date/</guid>
+      <description>&lt;p&gt;This is a date test&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>One</title>
+      <link>http://localhost:1313/post/one/</link>
+      <pubDate>Sun, 19 Oct 2025 12:41:45 -0700</pubDate>
+      <guid>http://localhost:1313/post/one/</guid>
       <description></description>
     </item>
     <item>
-      <title>Layout Testing</title>
-      <link>http://localhost:1313/post/layout-testing/</link>
-      <pubDate>Sat, 18 Oct 2025 09:40:21 -0700</pubDate>
-      <guid>http://localhost:1313/post/layout-testing/</guid>
-      <description>&lt;p&gt;This is a test post to see how this will be formatted on the site and if I will have an image.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lets-add-some-markdown&#34;&gt;Lets add some markdown&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;MarkDown&lt;/strong&gt; testing text.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Testing</title>
-      <link>http://localhost:1313/post/testing/</link>
-      <pubDate>Sat, 18 Oct 2025 09:34:20 -0700</pubDate>
-      <guid>http://localhost:1313/post/testing/</guid>
-      <description>&lt;p&gt;This is a testing page to test images.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Second</title>
-      <link>http://localhost:1313/post/second/</link>
-      <pubDate>Sat, 18 Oct 2025 09:24:47 -0700</pubDate>
-      <guid>http://localhost:1313/post/second/</guid>
+      <title>Anotherslug</title>
+      <link>http://localhost:1313/post/anotherslug/</link>
+      <pubDate>Sun, 19 Oct 2025 12:39:56 -0700</pubDate>
+      <guid>http://localhost:1313/post/anotherslug/</guid>
       <description></description>
     </item>
     <item>
-      <title>Image Test</title>
-      <link>http://localhost:1313/post/image-test/</link>
-      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/image-test/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris fringilla dui eu mi iaculis, sit amet congue lacus porta. Ut nec porta ex. Morbi nec massa sodales, finibus urna et, condimentum odio. Nulla ornare est ac egestas varius. Duis faucibus sapien non risus pretium vestibulum. Ut rutrum lorem ut euismod maximus. Vestibulum metus urna, ultrices nec sapien sit amet, malesuada tincidunt quam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque ornare ipsum quis leo mattis, et tincidunt lacus feugiat. Aenean non vestibulum metus, vitae mattis sapien. Maecenas ut tortor viverra, finibus risus blandit, ultrices elit. Etiam cursus felis imperdiet ultrices ullamcorper. Ut diam nibh, porttitor at mauris laoreet, laoreet suscipit tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras vitae blandit quam.&lt;/p&gt;</description>
+      <title>Newslug</title>
+      <link>http://localhost:1313/post/newslug/</link>
+      <pubDate>Sun, 19 Oct 2025 12:35:48 -0700</pubDate>
+      <guid>http://localhost:1313/post/newslug/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Testslug</title>
+      <link>http://localhost:1313/post/testslug/</link>
+      <pubDate>Sun, 19 Oct 2025 12:33:09 -0700</pubDate>
+      <guid>http://localhost:1313/post/testslug/</guid>
+      <description></description>
     </item>
     <item>
       <title></title>
@@ -63,13 +63,6 @@
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/archives/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rich Content</title>
@@ -84,20 +77,6 @@
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Math Typesetting</title>
-      <link>http://localhost:1313/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Emoji Support</title>
-      <link>http://localhost:1313/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>

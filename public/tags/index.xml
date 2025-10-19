@@ -6,48 +6,20 @@
     <description>Recent content in Tags on The Objective Perspective.  A blog for the Mindful. </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Oct 2025 00:12:36 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 13:06:40 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown</title>
       <link>http://localhost:1313/tags/markdown/</link>
-      <pubDate>Sun, 19 Oct 2025 00:12:36 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 13:06:40 -0700</pubDate>
       <guid>http://localhost:1313/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Text</title>
       <link>http://localhost:1313/tags/text/</link>
-      <pubDate>Sun, 19 Oct 2025 00:12:36 -0700</pubDate>
+      <pubDate>Sun, 19 Oct 2025 13:06:40 -0700</pubDate>
       <guid>http://localhost:1313/tags/text/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Css</title>
-      <link>http://localhost:1313/tags/css/</link>
-      <pubDate>Sat, 18 Oct 2025 09:34:20 -0700</pubDate>
-      <guid>http://localhost:1313/tags/css/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Images</title>
-      <link>http://localhost:1313/tags/images/</link>
-      <pubDate>Sat, 18 Oct 2025 09:34:20 -0700</pubDate>
-      <guid>http://localhost:1313/tags/images/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Themes</title>
-      <link>http://localhost:1313/tags/themes/</link>
-      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/themes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Html</title>
-      <link>http://localhost:1313/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/html/</guid>
       <description></description>
     </item>
     <item>
@@ -62,13 +34,6 @@
       <link>http://localhost:1313/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Emoji</title>
-      <link>http://localhost:1313/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>

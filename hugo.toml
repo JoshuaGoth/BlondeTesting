@@ -6,6 +6,8 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 theme = "Blonde"
 enableRobotsTXT = true
+[permalinks]
+posts = '/:year-:month-:day-:slug/'
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
 #hasCJKLanguage = true
@@ -51,6 +53,7 @@ darkmode = "light"
 
   [params.post]
     # Show thumbnails
+
     thumbnail = true
 
     # Disable the "NO IMAGE" image.
@@ -103,11 +106,30 @@ darkmode = "light"
     url = "/contact/"
     weight = 4
 
+  [[menu.foot]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.foot]]
+  identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+  [[menu.foot]]
+  identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
 
 [taxonomies]
 category = "categories"
 tag = "tags"
 archive = "archives"
+
 
 [privacy]
 

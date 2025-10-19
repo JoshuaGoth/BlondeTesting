@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2024/12 on Blonde</title>
-    <link>http://localhost:1313/archives/2024/12/</link>
+    <link>https://example.com/archives/2024/12/</link>
     <description>Recent content in 2024/12 on Blonde</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 18 Oct 2025 09:40:21 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/archives/2024/12/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/archives/2024/12/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Layout Testing</title>
-      <link>http://localhost:1313/post/layout-testing/</link>
+      <link>https://example.com/post/layout-testing/</link>
       <pubDate>Sat, 18 Oct 2025 09:40:21 -0700</pubDate>
-      <guid>http://localhost:1313/post/layout-testing/</guid>
+      <guid>https://example.com/post/layout-testing/</guid>
       <description>&lt;p&gt;This is a test post to see how this will be formatted on the site and if I will have an image.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lets-add-some-markdown&#34;&gt;Lets add some markdown&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;MarkDown&lt;/strong&gt; testing text.&lt;/p&gt;</description>
     </item>
   </channel>

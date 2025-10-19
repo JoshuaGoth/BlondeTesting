@@ -1,13 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2024/12 on Blonde</title>
+    <title>2024/12 on The Objective Perspective.  A blog for the Mindful. </title>
     <link>http://localhost:1313/archives/2024/12/</link>
-    <description>Recent content in 2024/12 on Blonde</description>
+    <description>Recent content in 2024/12 on The Objective Perspective.  A blog for the Mindful. </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Oct 2025 09:40:21 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 00:12:36 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/archives/2024/12/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Baffle</title>
+      <link>http://localhost:1313/post/baffle/</link>
+      <pubDate>Sun, 19 Oct 2025 00:12:36 -0700</pubDate>
+      <guid>http://localhost:1313/post/baffle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crow</title>
+      <link>http://localhost:1313/post/crow/</link>
+      <pubDate>Sat, 18 Oct 2025 23:52:14 -0700</pubDate>
+      <guid>http://localhost:1313/post/crow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Moremoremore</title>
+      <link>http://localhost:1313/post/moremoremore/</link>
+      <pubDate>Sat, 18 Oct 2025 23:44:23 -0700</pubDate>
+      <guid>http://localhost:1313/post/moremoremore/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Layout Testing</title>
       <link>http://localhost:1313/post/layout-testing/</link>

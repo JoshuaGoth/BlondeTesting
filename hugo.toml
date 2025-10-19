@@ -79,6 +79,10 @@ darkmode = "light"
 #    enabled = true
 #    tagNumber = ''
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [menu]
 
   [[menu.main]]

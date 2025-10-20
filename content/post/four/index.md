@@ -4,6 +4,7 @@ title = 'Four'
 author = 'Joshua Goth'
 image = 'img/JG_Crow.png'
 tags = ["logo", "sticker", "CrampStamp"]
+categories = ["Projects", "Mental Health"]
 archives = ["2025/10"]
 +++
 

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2019/03 on The Objective Perspective.  A blog for the Mindful. </title>
-    <link>http://localhost:1313/archives/2019/03/</link>
+    <link>https://example.com/archives/2019/03/</link>
     <description>Recent content in 2019/03 on The Objective Perspective.  A blog for the Mindful. </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/archives/2019/03/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/archives/2019/03/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rich Content</title>
-      <link>http://localhost:1313/post/rich-content/</link>
+      <link>https://example.com/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/rich-content/</guid>
+      <guid>https://example.com/post/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Placeholder Text</title>
-      <link>http://localhost:1313/post/placeholder-text/</link>
+      <link>https://example.com/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/placeholder-text/</guid>
+      <guid>https://example.com/post/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
   </channel>

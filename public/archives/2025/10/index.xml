@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2025/10 on The Objective Perspective.  A blog for the Mindful. </title>
+    <link>https://example.com/archives/2025/10/</link>
+    <description>Recent content in 2025/10 on The Objective Perspective.  A blog for the Mindful. </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Oct 2025 01:58:51 -0700</lastBuildDate>
+    <atom:link href="https://example.com/archives/2025/10/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Four</title>
+      <link>https://example.com/post/four/</link>
+      <pubDate>Mon, 20 Oct 2025 01:58:51 -0700</pubDate>
+      <guid>https://example.com/post/four/</guid>
+      <description>&lt;p&gt;Testing by creating /post/four/index.md instead of /post/four.md. Trying to see which uniformity flows. &lt;img src=&#34;https://example.com/post/four/cramp.png&#34; alt=&#34;Cramp Logo&#34; title=&#34;super cool&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

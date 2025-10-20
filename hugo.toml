@@ -80,6 +80,8 @@ darkmode = "light"
 #    enabled = true
 #    tagNumber = ''
 
+  [params.author]
+  author = "Joshua Goth"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'

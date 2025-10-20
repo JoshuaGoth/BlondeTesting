@@ -2,69 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/archives/2024/12/</loc>
+    <loc>https://example.com/archives/2025/10/</loc>
+    <lastmod>2025-10-20T01:58:51-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/crampstamp/</loc>
+    <lastmod>2025-10-20T01:58:51-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/four/</loc>
+    <lastmod>2025-10-20T01:58:51-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/logo/</loc>
+    <lastmod>2025-10-20T01:58:51-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2025-10-20T01:58:51-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/sticker/</loc>
+    <lastmod>2025-10-20T01:58:51-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2025-10-20T01:58:51-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2025-10-20T01:58:51-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/archives/2024/12/</loc>
     <lastmod>2025-10-19T13:06:40-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>https://example.com/tags/markdown/</loc>
     <lastmod>2025-10-19T13:06:40-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://example.com/tags/text/</loc>
     <lastmod>2025-10-19T13:06:40-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.com/post/three/</loc>
     <lastmod>2025-10-19T13:06:40-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/text/</loc>
-    <lastmod>2025-10-19T13:06:40-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-19T13:06:40-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/three/</loc>
-    <lastmod>2025-10-19T13:06:40-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/break/</loc>
+    <loc>https://example.com/post/break/</loc>
     <lastmod>2025-10-19T13:03:40-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/date/</loc>
+    <loc>https://example.com/post/date/</loc>
     <lastmod>2025-10-19T12:50:29-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/one/</loc>
+    <loc>https://example.com/post/one/</loc>
     <lastmod>2025-10-19T12:41:45-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/anotherslug/</loc>
+    <loc>https://example.com/post/anotherslug/</loc>
     <lastmod>2025-10-19T12:39:56-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/newslug/</loc>
+    <loc>https://example.com/post/newslug/</loc>
     <lastmod>2025-10-19T12:35:48-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/testslug/</loc>
+    <loc>https://example.com/post/testslug/</loc>
     <lastmod>2025-10-19T12:33:09-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://example.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/2019/03/</loc>
+    <loc>https://example.com/archives/2019/03/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/privacy/</loc>
+    <loc>https://example.com/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/rich-content/</loc>
+    <loc>https://example.com/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/shortcodes/</loc>
+    <loc>https://example.com/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/placeholder-text/</loc>
+    <loc>https://example.com/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://example.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://example.com/contact/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.com/categories/</loc>
   </url>
 </urlset>

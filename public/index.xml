@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Objective Perspective.  A blog for the Mindful. </title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.com/</link>
     <description>Recent content on The Objective Perspective.  A blog for the Mindful. </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 21 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Five</title>
-      <link>http://localhost:1313/post/five/</link>
+      <link>https://example.com/post/five/</link>
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/five/</guid>
+      <guid>https://example.com/post/five/</guid>
       <description></description>
     </item>
     <item>
       <title>Six</title>
-      <link>http://localhost:1313/post/six/</link>
+      <link>https://example.com/post/six/</link>
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/six/</guid>
+      <guid>https://example.com/post/six/</guid>
       <description></description>
     </item>
     <item>
       <title>Four</title>
-      <link>http://localhost:1313/post/four/</link>
+      <link>https://example.com/post/four/</link>
       <pubDate>Mon, 20 Oct 2025 01:58:51 -0700</pubDate>
-      <guid>http://localhost:1313/post/four/</guid>
-      <description>&lt;p&gt;Testing by creating /post/four/index.md instead of /post/four.md. Trying to see which uniformity flows. &lt;img src=&#34;http://localhost:1313/post/four/cramp.png&#34; alt=&#34;Cramp Logo&#34; title=&#34;super cool&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://example.com/post/four/</guid>
+      <description>&lt;p&gt;Testing by creating /post/four/index.md instead of /post/four.md. Trying to see which uniformity flows. &lt;img src=&#34;https://example.com/post/four/cramp.png&#34; alt=&#34;Cramp Logo&#34; title=&#34;super cool&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Three</title>
-      <link>http://localhost:1313/post/three/</link>
+      <link>https://example.com/post/three/</link>
       <pubDate>Sun, 19 Oct 2025 13:06:40 -0700</pubDate>
-      <guid>http://localhost:1313/post/three/</guid>
+      <guid>https://example.com/post/three/</guid>
       <description></description>
     </item>
     <item>
       <title>Break</title>
-      <link>http://localhost:1313/post/break/</link>
+      <link>https://example.com/post/break/</link>
       <pubDate>Sun, 19 Oct 2025 13:03:40 -0700</pubDate>
-      <guid>http://localhost:1313/post/break/</guid>
+      <guid>https://example.com/post/break/</guid>
       <description></description>
     </item>
     <item>
       <title>Date</title>
-      <link>http://localhost:1313/post/date/</link>
+      <link>https://example.com/post/date/</link>
       <pubDate>Sun, 19 Oct 2025 12:50:29 -0700</pubDate>
-      <guid>http://localhost:1313/post/date/</guid>
+      <guid>https://example.com/post/date/</guid>
       <description>&lt;p&gt;This is a date test&lt;/p&gt;</description>
     </item>
     <item>
       <title>One</title>
-      <link>http://localhost:1313/post/one/</link>
+      <link>https://example.com/post/one/</link>
       <pubDate>Sun, 19 Oct 2025 12:41:45 -0700</pubDate>
-      <guid>http://localhost:1313/post/one/</guid>
+      <guid>https://example.com/post/one/</guid>
       <description></description>
     </item>
     <item>
       <title>Anotherslug</title>
-      <link>http://localhost:1313/post/anotherslug/</link>
+      <link>https://example.com/post/anotherslug/</link>
       <pubDate>Sun, 19 Oct 2025 12:39:56 -0700</pubDate>
-      <guid>http://localhost:1313/post/anotherslug/</guid>
+      <guid>https://example.com/post/anotherslug/</guid>
       <description></description>
     </item>
     <item>
       <title>Newslug</title>
-      <link>http://localhost:1313/post/newslug/</link>
+      <link>https://example.com/post/newslug/</link>
       <pubDate>Sun, 19 Oct 2025 12:35:48 -0700</pubDate>
-      <guid>http://localhost:1313/post/newslug/</guid>
+      <guid>https://example.com/post/newslug/</guid>
       <description></description>
     </item>
     <item>
       <title>Testslug</title>
-      <link>http://localhost:1313/post/testslug/</link>
+      <link>https://example.com/post/testslug/</link>
       <pubDate>Sun, 19 Oct 2025 12:33:09 -0700</pubDate>
-      <guid>http://localhost:1313/post/testslug/</guid>
+      <guid>https://example.com/post/testslug/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/archives/</link>
+      <link>https://example.com/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/archives/</guid>
+      <guid>https://example.com/archives/</guid>
       <description></description>
     </item>
     <item>
       <title>Rich Content</title>
-      <link>http://localhost:1313/post/rich-content/</link>
+      <link>https://example.com/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/rich-content/</guid>
+      <guid>https://example.com/post/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Placeholder Text</title>
-      <link>http://localhost:1313/post/placeholder-text/</link>
+      <link>https://example.com/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/placeholder-text/</guid>
+      <guid>https://example.com/post/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://example.com/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://example.com/about/</guid>
       <description>&lt;h3 id=&#34;placeholder&#34;&gt;Placeholder&lt;/h3&gt;&#xA;&lt;p&gt;Placeholder content for the about me page.&#xA;&lt;strong&gt;testing markup&lt;/strong&gt; using GitSync on iPhone.&#xA;&lt;img src=&#34;img/oops.png&#34; alt=&#34;&#34;&gt;&#xA;&lt;em&gt;testing image&lt;/em&gt;&#xA;&lt;img src=&#34;img/oops.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://example.com/contact/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://example.com/contact/</guid>
       <description>&lt;div class=&#34;content&#34;&gt;&#xA;    &lt;p class=&#34;mb-2&#34;&gt;To contact us, please fill out the form below.&lt;/p&gt;&#xA;    &lt;form name=contact action=&#34;https://getform.io/f/4bc32c7d-2c91-4c4d-bacf-a8c1bccf1de9&#34; method=post&gt;&#xA;    &lt;div class=&#34;mb-4&#34;&gt;&#xA;         &lt;input type=text placeholder=&#34;Your Name&#34; name=name class=&#34;w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-warmgray-700 dark:border-warmgray-700 dark:focus:bg-warmgray-800&#34; required&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;mb-4&#34;&gt;&#xA;        &lt;input type=text placeholder=&#34;Email Address&#34; name=mail class=&#34;w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-warmgray-700 dark:border-warmgray-700 dark:focus:bg-warmgray-800&#34; required&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;mb-4&#34;&gt;&#xA;        &lt;input type=text placeholder=&#34;Subject&#34; name=title class=&#34;w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-warmgray-700 dark:border-warmgray-700 dark:focus:bg-warmgray-800&#34; required&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;mb-4&#34;&gt;&#xA;        &lt;textarea rows=5 cols=30 placeholder=&#34;Message&#34; name=message class=&#34;w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-warmgray-700 dark:border-warmgray-700 dark:focus:bg-warmgray-800&#34; required&gt;&lt;/textarea&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;input type=submit value=&#34;Submit&#34; class=&#34;w-full button duration-100 py-2 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-600&#34;&gt;&#xA;    &lt;/form&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>

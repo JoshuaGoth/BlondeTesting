@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown on The Objective Perspective.  A blog for the Mindful. </title>
-    <link>https://example.com/tags/markdown/</link>
+    <link>http://localhost:1313/tags/markdown/</link>
     <description>Recent content in Markdown on The Objective Perspective.  A blog for the Mindful. </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 19 Oct 2025 13:06:40 -0700</lastBuildDate>
-    <atom:link href="https://example.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Three</title>
-      <link>https://example.com/post/three/</link>
+      <link>http://localhost:1313/post/three/</link>
       <pubDate>Sun, 19 Oct 2025 13:06:40 -0700</pubDate>
-      <guid>https://example.com/post/three/</guid>
+      <guid>http://localhost:1313/post/three/</guid>
       <description></description>
     </item>
     <item>
       <title>Break</title>
-      <link>https://example.com/post/break/</link>
+      <link>http://localhost:1313/post/break/</link>
       <pubDate>Sun, 19 Oct 2025 13:03:40 -0700</pubDate>
-      <guid>https://example.com/post/break/</guid>
+      <guid>http://localhost:1313/post/break/</guid>
       <description></description>
     </item>
     <item>
       <title>Date</title>
-      <link>https://example.com/post/date/</link>
+      <link>http://localhost:1313/post/date/</link>
       <pubDate>Sun, 19 Oct 2025 12:50:29 -0700</pubDate>
-      <guid>https://example.com/post/date/</guid>
+      <guid>http://localhost:1313/post/date/</guid>
       <description>&lt;p&gt;This is a date test&lt;/p&gt;</description>
     </item>
     <item>
       <title>One</title>
-      <link>https://example.com/post/one/</link>
+      <link>http://localhost:1313/post/one/</link>
       <pubDate>Sun, 19 Oct 2025 12:41:45 -0700</pubDate>
-      <guid>https://example.com/post/one/</guid>
+      <guid>http://localhost:1313/post/one/</guid>
       <description></description>
     </item>
     <item>
       <title>Anotherslug</title>
-      <link>https://example.com/post/anotherslug/</link>
+      <link>http://localhost:1313/post/anotherslug/</link>
       <pubDate>Sun, 19 Oct 2025 12:39:56 -0700</pubDate>
-      <guid>https://example.com/post/anotherslug/</guid>
+      <guid>http://localhost:1313/post/anotherslug/</guid>
       <description></description>
     </item>
     <item>
       <title>Newslug</title>
-      <link>https://example.com/post/newslug/</link>
+      <link>http://localhost:1313/post/newslug/</link>
       <pubDate>Sun, 19 Oct 2025 12:35:48 -0700</pubDate>
-      <guid>https://example.com/post/newslug/</guid>
+      <guid>http://localhost:1313/post/newslug/</guid>
       <description></description>
     </item>
     <item>
       <title>Testslug</title>
-      <link>https://example.com/post/testslug/</link>
+      <link>http://localhost:1313/post/testslug/</link>
       <pubDate>Sun, 19 Oct 2025 12:33:09 -0700</pubDate>
-      <guid>https://example.com/post/testslug/</guid>
+      <guid>http://localhost:1313/post/testslug/</guid>
       <description></description>
     </item>
     <item>
       <title>Placeholder Text</title>
-      <link>https://example.com/post/placeholder-text/</link>
+      <link>http://localhost:1313/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/placeholder-text/</guid>
+      <guid>http://localhost:1313/post/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
   </channel>

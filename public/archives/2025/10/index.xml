@@ -6,29 +6,9 @@
     <description>Recent content in 2025/10 on The Objective Perspective.  A blog for the Mindful. </description>
     <generator>Hugo</generator>
     <language>en</language>
-<<<<<<< Updated upstream
     <lastBuildDate>Mon, 20 Oct 2025 01:58:51 -0700</lastBuildDate>
-    <atom:link href="https://example.com/archives/2025/10/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-=======
-    <lastBuildDate>Tue, 21 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/archives/2025/10/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Five</title>
-      <link>http://localhost:1313/post/five/</link>
-      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/five/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Six</title>
-      <link>http://localhost:1313/post/six/</link>
-      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/six/</guid>
-      <description></description>
-    </item>
-    <item>
->>>>>>> Stashed changes
       <title>Four</title>
       <link>http://localhost:1313/post/four/</link>
       <pubDate>Mon, 20 Oct 2025 01:58:51 -0700</pubDate>

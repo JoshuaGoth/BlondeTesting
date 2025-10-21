@@ -2,25 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-<<<<<<< Updated upstream
-    <loc>https://example.com/archives/2025/10/</loc>
-    <lastmod>2025-10-20T01:58:51-07:00</lastmod>
-=======
     <loc>http://localhost:1313/archives/2025/10/</loc>
-    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/five/</loc>
-    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/six/</loc>
-    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
->>>>>>> Stashed changes
+    <lastmod>2025-10-20T01:58:51-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-10-20T01:58:51-07:00</lastmod>
@@ -37,14 +20,10 @@
     <loc>http://localhost:1313/categories/mental-health/</loc>
     <lastmod>2025-10-20T01:58:51-07:00</lastmod>
   </url><url>
-<<<<<<< Updated upstream
-    <loc>https://example.com/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-10-20T01:58:51-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/projects/</loc>
-=======
     <loc>http://localhost:1313/categories/projects/</loc>
->>>>>>> Stashed changes
     <lastmod>2025-10-20T01:58:51-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sticker/</loc>
@@ -53,14 +32,10 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-10-20T01:58:51-07:00</lastmod>
   </url><url>
-<<<<<<< Updated upstream
-    <loc>https://example.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-20T01:58:51-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives/2024/12/</loc>
-=======
     <loc>http://localhost:1313/archives/2024/12/</loc>
->>>>>>> Stashed changes
     <lastmod>2025-10-19T13:06:40-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/markdown/</loc>

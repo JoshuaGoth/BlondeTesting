@@ -1,26 +1,64 @@
 ---
 title: "Contact"
-description: "Hugo, the world's fastest framework for building websites"
-date: 2019-02-28
+description: "Contact Josh About Anything!"
+date: 2025-10-15
 aliases: ["contact"]
-author: "Hugo Authors"
+author: "Joshua Goth"
 ---
 
-<div class="content">
-    <p class="mb-2">To contact us, please fill out the form below.</p>
-    <form name=contact action="https://getform.io/f/4bc32c7d-2c91-4c4d-bacf-a8c1bccf1de9" method=post>
-    <div class="mb-4">
-         <input type=text placeholder="Your Name" name=name class="w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-warmgray-700 dark:border-warmgray-700 dark:focus:bg-warmgray-800" required>
-    </div>
-    <div class="mb-4">
-        <input type=text placeholder="Email Address" name=mail class="w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-warmgray-700 dark:border-warmgray-700 dark:focus:bg-warmgray-800" required>
-    </div>
-    <div class="mb-4">
-        <input type=text placeholder="Subject" name=title class="w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-warmgray-700 dark:border-warmgray-700 dark:focus:bg-warmgray-800" required>
-    </div>
-    <div class="mb-4">
-        <textarea rows=5 cols=30 placeholder="Message" name=message class="w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-warmgray-700 dark:border-warmgray-700 dark:focus:bg-warmgray-800" required></textarea>
-    </div>
-    <input type=submit value="Submit" class="w-full button duration-100 py-2 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-600">
-    </form>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha256-bZLfwXAP04zRMK2BjiO8iu9pf4FbLqX6zitd+tIvLhE=" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<div class="container">
+  <div class="row">
+    <section class="container col-xs-12 col-sm-8 col-sm-offset-2 col-xl-6 col-xl-offset-3 my-4">
+        <div class="container" style="width:100%">
+        <form class="" target="_self" enctype="multipart/form-data" action="https://formkeep.com/f/cfff84808303" accept-charset="UTF-8" method="post">
+          <fieldset>
+            <center><h2>Contact Me</h2></center>
+            <br>
+              <div class="row">
+              <div class="form-group col-xs-12" id="Preferred_Name__div">
+              <label for="Preferred_Name">Preferred Name</label>
+              <input type="text" name="Preferred Name" id="Preferred_Name" autofocus="autofocus" class="form-control" />
+          </div>
+          </div>
+              <div class="row">
+              <div class="form-group col-xs-12" id="Email__div">
+              <label title="required" for="Email">Email *</label>
+              <input type="email" name="Email" id="Email" required="required" placeholder="example@example.com" class="form-control" />
+          </div>
+          </div>
+              <div class="row">
+              <div class="form-group col-xs-12" id="Reason__div">
+              <label for="Reason">Reason *</label>
+              <select name="Reason" id="Reason" required="required" class="form-control"><option value="">Choose</option>
+<option value="Technical">Technical</option>
+<option value="You Might Like..">You Might Like..</option>
+<option value="My Thoughts...">My Thoughts...</option>
+<option value="Support">Support</option>
+<option value="Other">Other</option></select>
+          </div>
+          </div>
+              <div class="row">
+              <div class="form-group col-xs-12" id="Message__div">
+              <label title="required" for="Message">Message *</label>
+              <textarea name="Message" id="Message" required="required" class="form-control">
+</textarea>
+              <small class="form-text text-muted">Please provide, with as much detail possible, what it is you would like.</small>
+          </div>
+          </div>
+          <br>
+          <div style="opacity:0;position:absolute;top:0;left:-5000px;height:0;width:0">
+            <label for="subscribe_cfff84808303_49454"></label>
+            <input name="subscribe_cfff84808303_49454" value="" tabindex="-1" autocomplete="off"
+                   type="email" id="email_subscribe_cfff84808303_49454" placeholder="Your email here">
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <input type="submit" value="Submit" class="btn btn-block btn-primary" data-disable-with="Submit" />
+            </div>
+          </div>
+        </fieldset>
+</form>
+  </div>
 </div>

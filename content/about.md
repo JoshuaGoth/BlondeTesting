@@ -11,3 +11,7 @@ author = "Joshua Goth"
 ### Placeholder
 
 Placeholder content for the about me page. 
+**testing markup** using GitSync on iPhone.
+![](img/oops.png)
+*testing image*
+![](img/oops.png)

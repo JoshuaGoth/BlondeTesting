@@ -6,8 +6,6 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 theme = "Blonde"
 enableRobotsTXT = true
-[permalinks]
-posts = '/:year-:month-:day-:slug/'
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
 #hasCJKLanguage = true
@@ -82,6 +80,8 @@ darkmode = "light"
 #    enabled = true
 #    tagNumber = ''
 
+  [params.author]
+  author = "Joshua Goth"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'

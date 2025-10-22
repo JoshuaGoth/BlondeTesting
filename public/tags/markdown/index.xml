@@ -15,54 +15,5 @@
       <guid>http://localhost:1313/post/three/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Break</title>
-      <link>http://localhost:1313/post/break/</link>
-      <pubDate>Sun, 19 Oct 2025 13:03:40 -0700</pubDate>
-      <guid>http://localhost:1313/post/break/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Date</title>
-      <link>http://localhost:1313/post/date/</link>
-      <pubDate>Sun, 19 Oct 2025 12:50:29 -0700</pubDate>
-      <guid>http://localhost:1313/post/date/</guid>
-      <description>&lt;p&gt;This is a date test&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>One</title>
-      <link>http://localhost:1313/post/one/</link>
-      <pubDate>Sun, 19 Oct 2025 12:41:45 -0700</pubDate>
-      <guid>http://localhost:1313/post/one/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Anotherslug</title>
-      <link>http://localhost:1313/post/anotherslug/</link>
-      <pubDate>Sun, 19 Oct 2025 12:39:56 -0700</pubDate>
-      <guid>http://localhost:1313/post/anotherslug/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Newslug</title>
-      <link>http://localhost:1313/post/newslug/</link>
-      <pubDate>Sun, 19 Oct 2025 12:35:48 -0700</pubDate>
-      <guid>http://localhost:1313/post/newslug/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Testslug</title>
-      <link>http://localhost:1313/post/testslug/</link>
-      <pubDate>Sun, 19 Oct 2025 12:33:09 -0700</pubDate>
-      <guid>http://localhost:1313/post/testslug/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Placeholder Text</title>
-      <link>http://localhost:1313/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

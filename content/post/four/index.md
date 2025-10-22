@@ -11,5 +11,4 @@ archives = ["2025/10"]
 
 
  
- Testing by creating /post/four/index.md instead of /post/four.md. Trying to see which uniformity flows. ![Cramp Logo](/post/four/cramp.png "super cool")
- 
+ New Test, since things dont seem to be syncing up. ![logo](cramp.png)

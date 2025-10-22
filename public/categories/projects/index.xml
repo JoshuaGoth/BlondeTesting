@@ -13,7 +13,7 @@
       <link>http://localhost:1313/post/four/</link>
       <pubDate>Mon, 20 Oct 2025 01:58:51 -0700</pubDate>
       <guid>http://localhost:1313/post/four/</guid>
-      <description>&lt;p&gt;Testing by creating /post/four/index.md instead of /post/four.md. Trying to see which uniformity flows. &lt;img src=&#34;http://localhost:1313/post/four/cramp.png&#34; alt=&#34;Cramp Logo&#34; title=&#34;super cool&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;New Test, since things dont seem to be syncing up. &lt;img src=&#34;cramp.png&#34; alt=&#34;logo&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

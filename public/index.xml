@@ -23,27 +23,6 @@
       <description></description>
     </item>
     <item>
-      <title>Anotherslug</title>
-      <link>http://localhost:1313/post/anotherslug/</link>
-      <pubDate>Sun, 19 Oct 2025 12:39:56 -0700</pubDate>
-      <guid>http://localhost:1313/post/anotherslug/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Newslug</title>
-      <link>http://localhost:1313/post/newslug/</link>
-      <pubDate>Sun, 19 Oct 2025 12:35:48 -0700</pubDate>
-      <guid>http://localhost:1313/post/newslug/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Testslug</title>
-      <link>http://localhost:1313/post/testslug/</link>
-      <pubDate>Sun, 19 Oct 2025 12:33:09 -0700</pubDate>
-      <guid>http://localhost:1313/post/testslug/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Contact</title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>

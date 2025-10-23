@@ -6,21 +6,14 @@
     <description>Recent content on The Objective Perspective.  A blog for the Mindful. </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Oct 2025 01:58:51 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Four</title>
-      <link>http://localhost:1313/post/four/</link>
-      <pubDate>Mon, 20 Oct 2025 01:58:51 -0700</pubDate>
-      <guid>http://localhost:1313/post/four/</guid>
-      <description>&lt;p&gt;Verifying that the image &lt;img src=&#34;cramp.png&#34; alt=&#34;logo&#34; title=&#34;Super Cool&#34;&gt; shows up both local and github.2&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Three</title>
-      <link>http://localhost:1313/post/three/</link>
-      <pubDate>Sun, 19 Oct 2025 13:06:40 -0700</pubDate>
-      <guid>http://localhost:1313/post/three/</guid>
-      <description></description>
+      <title>Test2</title>
+      <link>http://localhost:1313/post/test2/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/test2/</guid>
+      <description>&lt;p&gt;Testing Laptop image. 1200x630 seems to be the right fit. Now testing, with this image size, the length of description that follows behind it. Lets see if this amount is adequate. I just have to create capturing headliners, I suppose.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
@@ -28,20 +21,6 @@
       <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
       <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css&#34; integrity=&#34;sha256-bZLfwXAP04zRMK2BjiO8iu9pf4FbLqX6zitd+tIvLhE=&#34; crossorigin=&#34;anonymous&#34;&gt;&#xA;&lt;script src=&#34;https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js&#34; integrity=&#34;sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;&#xA;&lt;div class=&#34;container&#34;&gt;&#xA;  &lt;div class=&#34;row&#34;&gt;&#xA;    &lt;section class=&#34;container col-xs-12 col-sm-8 col-sm-offset-2 col-xl-6 col-xl-offset-3 my-4&#34;&gt;&#xA;        &lt;div class=&#34;container&#34; style=&#34;width:100%&#34;&gt;&#xA;        &lt;form class=&#34;&#34; target=&#34;_self&#34; enctype=&#34;multipart/form-data&#34; action=&#34;https://formkeep.com/f/cfff84808303&#34; accept-charset=&#34;UTF-8&#34; method=&#34;post&#34;&gt;&#xA;          &lt;fieldset&gt;&#xA;            &lt;center&gt;&lt;h2&gt;Contact Me&lt;/h2&gt;&lt;/center&gt;&#xA;            &lt;br&gt;&#xA;              &lt;div class=&#34;row&#34;&gt;&#xA;              &lt;div class=&#34;form-group col-xs-12&#34; id=&#34;Preferred_Name__div&#34;&gt;&#xA;              &lt;label for=&#34;Preferred_Name&#34;&gt;Preferred Name&lt;/label&gt;&#xA;              &lt;input type=&#34;text&#34; name=&#34;Preferred Name&#34; id=&#34;Preferred_Name&#34; autofocus=&#34;autofocus&#34; class=&#34;form-control&#34; /&gt;&#xA;          &lt;/div&gt;&#xA;          &lt;/div&gt;&#xA;              &lt;div class=&#34;row&#34;&gt;&#xA;              &lt;div class=&#34;form-group col-xs-12&#34; id=&#34;Email__div&#34;&gt;&#xA;              &lt;label title=&#34;required&#34; for=&#34;Email&#34;&gt;Email *&lt;/label&gt;&#xA;              &lt;input type=&#34;email&#34; name=&#34;Email&#34; id=&#34;Email&#34; required=&#34;required&#34; placeholder=&#34;example@example.com&#34; class=&#34;form-control&#34; /&gt;&#xA;          &lt;/div&gt;&#xA;          &lt;/div&gt;&#xA;              &lt;div class=&#34;row&#34;&gt;&#xA;              &lt;div class=&#34;form-group col-xs-12&#34; id=&#34;Reason__div&#34;&gt;&#xA;              &lt;label for=&#34;Reason&#34;&gt;Reason *&lt;/label&gt;&#xA;              &lt;select name=&#34;Reason&#34; id=&#34;Reason&#34; required=&#34;required&#34; class=&#34;form-control&#34;&gt;&lt;option value=&#34;&#34;&gt;Choose&lt;/option&gt;&#xA;&lt;option value=&#34;Technical&#34;&gt;Technical&lt;/option&gt;&#xA;&lt;option value=&#34;You Might Like..&#34;&gt;You Might Like..&lt;/option&gt;&#xA;&lt;option value=&#34;My Thoughts...&#34;&gt;My Thoughts...&lt;/option&gt;&#xA;&lt;option value=&#34;Support&#34;&gt;Support&lt;/option&gt;&#xA;&lt;option value=&#34;Other&#34;&gt;Other&lt;/option&gt;&lt;/select&gt;&#xA;          &lt;/div&gt;&#xA;          &lt;/div&gt;&#xA;              &lt;div class=&#34;row&#34;&gt;&#xA;              &lt;div class=&#34;form-group col-xs-12&#34; id=&#34;Message__div&#34;&gt;&#xA;              &lt;label title=&#34;required&#34; for=&#34;Message&#34;&gt;Message *&lt;/label&gt;&#xA;              &lt;textarea name=&#34;Message&#34; id=&#34;Message&#34; required=&#34;required&#34; class=&#34;form-control&#34;&gt;&#xA;&lt;/textarea&gt;&#xA;              &lt;small class=&#34;form-text text-muted&#34;&gt;Please provide, with as much detail possible, what it is you would like.&lt;/small&gt;&#xA;          &lt;/div&gt;&#xA;          &lt;/div&gt;&#xA;          &lt;br&gt;&#xA;          &lt;div style=&#34;opacity:0;position:absolute;top:0;left:-5000px;height:0;width:0&#34;&gt;&#xA;            &lt;label for=&#34;subscribe_cfff84808303_49454&#34;&gt;&lt;/label&gt;&#xA;            &lt;input name=&#34;subscribe_cfff84808303_49454&#34; value=&#34;&#34; tabindex=&#34;-1&#34; autocomplete=&#34;off&#34;&#xA;                   type=&#34;email&#34; id=&#34;email_subscribe_cfff84808303_49454&#34; placeholder=&#34;Your email here&#34;&gt;&#xA;          &lt;/div&gt;&#xA;          &lt;div class=&#34;row&#34;&gt;&#xA;            &lt;div class=&#34;col-xs-12&#34;&gt;&#xA;              &lt;input type=&#34;submit&#34; value=&#34;Submit&#34; class=&#34;btn btn-block btn-primary&#34; data-disable-with=&#34;Submit&#34; /&gt;&#xA;            &lt;/div&gt;&#xA;          &lt;/div&gt;&#xA;        &lt;/fieldset&gt;&#xA;&lt;/form&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Political Divide</title>
-      <link>http://localhost:1313/post/political-divide/</link>
-      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/political-divide/</guid>
-      <description>&lt;h3 id=&#34;the-true-cost-of-politics-a-call-to-unite&#34;&gt;&lt;strong&gt;The True Cost of Politics: A Call to Unite&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;As I navigate the complexities of our society, I&amp;rsquo;m compelled to acknowledge that I don&amp;rsquo;t engage in political discussions. My decision isn&amp;rsquo;t driven by a lack of interest or willingness to debate; rather, it stems from a profound understanding of politics&amp;rsquo; divisive nature. The truth is, politics can cleave even the most closely-knit relationships – families, friends, and loved ones – apart.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why True AI Is a Bad Idea</title>
-      <link>http://localhost:1313/post/why-true-ai-is-a-bad-idea/</link>
-      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/why-true-ai-is-a-bad-idea/</guid>
-      <description>&lt;p&gt;Before I take any digs at artificial intelligence (as Hollywood portrays it and as we fear it), allow me to express that I am all for the use of technology to benifit humankind. Artificial intelligence, as it currently exists, is useful. As a technical tool, it&amp;rsquo;s downright phenomenal. I should be a fan of technology; after all, I spent the better half of my life as a network engineer.&lt;/p&gt;&#xA;&lt;p&gt;But I&amp;rsquo;m not. Not because it makes my life difficult or tied to any otherworldly belief system, but because I can see where this is heading, and it&amp;rsquo;s not good.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>

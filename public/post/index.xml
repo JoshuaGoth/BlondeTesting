@@ -6,8 +6,22 @@
     <description>Recent content in Posts on The Objective Perspective.  A blog for the Mindful. </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Oct 2025 01:58:51 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/post/test/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/test/</guid>
+      <description>&lt;p&gt;Testing to see if the frontmater takes the image properly. 1k x 1k. Now seeing how long the description next to the thumbnail is and where to go in order to find it. I Will need to adjust my opening posts if this content is automatically filled in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test2</title>
+      <link>http://localhost:1313/post/test2/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/test2/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Four</title>
       <link>http://localhost:1313/post/four/</link>

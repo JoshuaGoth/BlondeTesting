@@ -124,6 +124,9 @@ darkmode = "light"
     url = "/contact/"
     weight = 4
 
+    [permalinks]
+      posts = "/:year/:month/:day/:slug/"
+      pages = "/:slug/" # Example for pages without dates
 
 [taxonomies]
 category = "categories"

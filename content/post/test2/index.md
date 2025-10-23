@@ -2,7 +2,7 @@
 date = '2025-10-22'
 title = 'Test2'
 author = 'Joshua Goth'
-image = '/post/test2/Imagetest.png'
+image = 'post/test2/Imagetest.png'
 description = 'Image Testing'
 categories = ["Super"]
 tags = []

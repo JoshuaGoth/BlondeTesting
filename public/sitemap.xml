@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archives/december/</loc>
+    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/test/</loc>
+    <loc>http://localhost:1313/categories/super/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/test2/</loc>
@@ -14,91 +20,15 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/2025/10/</loc>
-    <lastmod>2025-10-20T01:58:51-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-10-20T01:58:51-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/crampstamp/</loc>
-    <lastmod>2025-10-20T01:58:51-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/four/</loc>
-    <lastmod>2025-10-20T01:58:51-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/logo/</loc>
-    <lastmod>2025-10-20T01:58:51-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/mental-health/</loc>
-    <lastmod>2025-10-20T01:58:51-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/projects/</loc>
-    <lastmod>2025-10-20T01:58:51-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sticker/</loc>
-    <lastmod>2025-10-20T01:58:51-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-10-20T01:58:51-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/archives/2024/12/</loc>
-    <lastmod>2025-10-19T13:06:40-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
-    <lastmod>2025-10-19T13:06:40-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/text/</loc>
-    <lastmod>2025-10-19T13:06:40-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/three/</loc>
-    <lastmod>2025-10-19T13:06:40-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2025-10-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/archives/2025/05/</loc>
-    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/humanity/</loc>
-    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/political-divide/</loc>
-    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/politics/</loc>
-    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/politics/</loc>
-    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/archives/2025/03/</loc>
-    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
-    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/artifical-intelligence/</loc>
-    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/computers/</loc>
-    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/just-saying/</loc>
-    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/technology/</loc>
-    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/thought-trot/</loc>
-    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/why-true-ai-is-a-bad-idea/</loc>
-    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

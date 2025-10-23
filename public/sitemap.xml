@@ -2,49 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/test3/</loc>
-    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/archives/december/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/super/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/test2/</loc>
-    <lastmod>2025-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://example.com/contact/</loc>
     <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/2025/05/</loc>
+    <loc>https://example.com/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/archives/2025/05/</loc>
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/political/</loc>
+    <loc>https://example.com/categories/</loc>
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/politics/</loc>
+    <loc>https://example.com/post/political/</loc>
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/politics/</loc>
+    <loc>https://example.com/categories/politics/</loc>
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.com/tags/politics/</loc>
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/careers/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/it/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/jobs/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/networking/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/tech/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/techfires/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/technology/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/techfoot/</loc>
+    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/it/</loc>
+    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/network/</loc>
+    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/archives/2025/03/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/ai/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/artifical-intelligence/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/computers/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/thought-trot/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/tt/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/aibad/</loc>
+    <lastmod>2025-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/archives/2025/02/</loc>
+    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/extraterrestrial/</loc>
+    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/alientcp/</loc>
+    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/tcp-ip/</loc>
+    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/ufo/</loc>
+    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://example.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>

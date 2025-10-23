@@ -2,18 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2025/05 on The Objective Perspective.  A blog for the Mindful. </title>
-    <link>http://localhost:1313/archives/2025/05/</link>
+    <link>https://example.com/archives/2025/05/</link>
     <description>Recent content in 2025/05 on The Objective Perspective.  A blog for the Mindful. </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/archives/2025/05/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/archives/2025/05/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Political Divide</title>
-      <link>http://localhost:1313/post/political/</link>
+      <title>Political Divide in America</title>
+      <link>https://example.com/post/political/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/political/</guid>
+      <guid>https://example.com/post/political/</guid>
       <description>&lt;h3 id=&#34;the-true-cost-of-politics-a-call-to-unite&#34;&gt;&lt;strong&gt;The True Cost of Politics: A Call to Unite&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;As I navigate the complexities of our society, I&amp;rsquo;m compelled to acknowledge that I don&amp;rsquo;t engage in political discussions. My decision isn&amp;rsquo;t driven by a lack of interest or willingness to debate; rather, it stems from a profound understanding of politics&amp;rsquo; divisive nature. The truth is, politics can cleave even the most closely-knit relationships – families, friends, and loved ones – apart.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tech Fires in the workplace, and how to easily avoid them.</title>
+      <link>https://example.com/post/techfires/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/techfires/</guid>
+      <description>&lt;h2 id=&#34;lessons-learned-from-a-25-year-network-engineer-veteran&#34;&gt;Lessons Learned from a 25-Year Network Engineer, Veteran&lt;/h2&gt;&#xA;&lt;p&gt;Hey there, fellow network enthusiasts! As a network veteran, I&amp;rsquo;m here to share some super valuable tips on how to minimize downtime in the workplace. After all, who doesn&amp;rsquo;t love a productive workday without those pesky IT issues getting in the way? Many of these are hard lessons I had to learn on my own.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-stats-are-scary-but-honest&#34;&gt;&lt;strong&gt;The Stats are Scary (But Honest)&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s face it: downtime can be a major productivity killer. According to a report by IT Brand Pulse (1), 80% of businesses experience at least one hour of downtime per week, resulting in an average loss of $5,000 per minute! That&amp;rsquo;s a whole lotta money just sitting idle.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting your foot in the door - Tips from an IT Vet</title>
+      <link>https://example.com/post/techfoot/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/techfoot/</guid>
+      <description>&lt;h3 id=&#34;how-to-land-a-job-in-it-without-prior-work-experience&#34;&gt;&lt;strong&gt;How To Land a Job in IT Without Prior Work Experience&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Getting hired can be difficult enough, but getting hired without any experience is damn near impossible. After all, how can you get hired without experience in order to obtain the experience you need in order to get hired in the first place?&lt;/p&gt;&#xA;&lt;p&gt;I hope to answer that question for you.&lt;/p&gt;&#xA;&lt;p&gt;I will be writing this with the assumption that you do not have any work history, a fresh degree, and not a whole lot of real world experience. Please pick and choose what applies to your unique situation according to your skill set and what you feel comfortable with.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

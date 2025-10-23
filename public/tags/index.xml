@@ -2,17 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The Objective Perspective.  A blog for the Mindful. </title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://example.com/tags/</link>
     <description>Recent content in Tags on The Objective Perspective.  A blog for the Mindful. </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Politics</title>
-      <link>http://localhost:1313/tags/politics/</link>
+      <link>https://example.com/tags/politics/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/politics/</guid>
+      <guid>https://example.com/tags/politics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IT</title>
+      <link>https://example.com/tags/it/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tags/it/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jobs</title>
+      <link>https://example.com/tags/jobs/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tags/jobs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>https://example.com/tags/tech/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tags/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network</title>
+      <link>https://example.com/tags/network/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tags/network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai</title>
+      <link>https://example.com/tags/ai/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computers</title>
+      <link>https://example.com/tags/computers/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tags/computers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TT</title>
+      <link>https://example.com/tags/tt/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tags/tt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tcp-Ip</title>
+      <link>https://example.com/tags/tcp-ip/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tags/tcp-ip/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UFO</title>
+      <link>https://example.com/tags/ufo/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tags/ufo/</guid>
       <description></description>
     </item>
   </channel>

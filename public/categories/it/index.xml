@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT on The Objective Perspective.  A blog for the Mindful. </title>
+    <link>https://example.com/categories/it/</link>
+    <description>Recent content in IT on The Objective Perspective.  A blog for the Mindful. </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/categories/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting your foot in the door - Tips from an IT Vet</title>
+      <link>https://example.com/post/techfoot/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/techfoot/</guid>
+      <description>&lt;h3 id=&#34;how-to-land-a-job-in-it-without-prior-work-experience&#34;&gt;&lt;strong&gt;How To Land a Job in IT Without Prior Work Experience&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Getting hired can be difficult enough, but getting hired without any experience is damn near impossible. After all, how can you get hired without experience in order to obtain the experience you need in order to get hired in the first place?&lt;/p&gt;&#xA;&lt;p&gt;I hope to answer that question for you.&lt;/p&gt;&#xA;&lt;p&gt;I will be writing this with the assumption that you do not have any work history, a fresh degree, and not a whole lot of real world experience. Please pick and choose what applies to your unique situation according to your skill set and what you feel comfortable with.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

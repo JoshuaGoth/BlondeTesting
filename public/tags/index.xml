@@ -50,5 +50,26 @@
       <guid>http://localhost:1313/tags/politics/</guid>
       <description></description>
     </item>
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computers</title>
+      <link>http://localhost:1313/tags/computers/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/computers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Just Saying</title>
+      <link>http://localhost:1313/tags/just-saying/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/just-saying/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

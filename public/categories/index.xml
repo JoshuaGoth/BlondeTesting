@@ -36,5 +36,26 @@
       <guid>http://localhost:1313/categories/politics/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Artifical Intelligence</title>
+      <link>http://localhost:1313/categories/artifical-intelligence/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/artifical-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/categories/technology/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thought Trot</title>
+      <link>http://localhost:1313/categories/thought-trot/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/thought-trot/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

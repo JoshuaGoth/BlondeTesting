@@ -1,7 +1,7 @@
 +++
 date = '2025-05-23'
 title = 'Political Divide'
-image = '/post/political/political.png'
+image = 'post/political/political.png'
 description = 'The Political Divide in America'
 categories = ["Politics"]
 tags = ["Politics"]

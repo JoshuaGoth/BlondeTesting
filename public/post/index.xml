@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Objective Perspective.  A blog for the Mindful. </title>
-    <link>https://example.com/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on The Objective Perspective.  A blog for the Mindful. </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test3</title>
-      <link>https://example.com/post/test3/</link>
+      <link>http://localhost:1313/post/test3/</link>
       <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/test3/</guid>
+      <guid>http://localhost:1313/post/test3/</guid>
       <description>&lt;h1 id=&#34;testing&#34;&gt;Testing&lt;/h1&gt;&#xA;&lt;p&gt;To see if the image test placehold auto appears.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Test2</title>
-      <link>https://example.com/post/test2/</link>
+      <link>http://localhost:1313/post/test2/</link>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/test2/</guid>
+      <guid>http://localhost:1313/post/test2/</guid>
       <description>&lt;p&gt;Testing Laptop image. 1200x630 seems to be the right fit. Now testing, with this image size, the length of description that follows behind it. Lets see if this amount is adequate. I just have to create capturing headliners, I suppose.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Political Divide</title>
-      <link>https://example.com/post/political/</link>
+      <link>http://localhost:1313/post/political/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/political/</guid>
+      <guid>http://localhost:1313/post/political/</guid>
       <description>&lt;h3 id=&#34;the-true-cost-of-politics-a-call-to-unite&#34;&gt;&lt;strong&gt;The True Cost of Politics: A Call to Unite&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;As I navigate the complexities of our society, I&amp;rsquo;m compelled to acknowledge that I don&amp;rsquo;t engage in political discussions. My decision isn&amp;rsquo;t driven by a lack of interest or willingness to debate; rather, it stems from a profound understanding of politics&amp;rsquo; divisive nature. The truth is, politics can cleave even the most closely-knit relationships – families, friends, and loved ones – apart.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -6,8 +6,15 @@
     <description>Recent content in Posts on The Objective Perspective.  A blog for the Mindful. </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test3</title>
+      <link>http://localhost:1313/post/test3/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/test3/</guid>
+      <description>&lt;h1 id=&#34;testing&#34;&gt;Testing&lt;/h1&gt;&#xA;&lt;p&gt;To see if the image test placehold auto appears.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Test2</title>
       <link>http://localhost:1313/post/test2/</link>

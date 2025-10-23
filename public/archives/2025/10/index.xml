@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2025/10 on The Objective Perspective.  A blog for the Mindful. </title>
-    <link>http://localhost:1313/archives/2025/10/</link>
+    <link>https://example.com/archives/2025/10/</link>
     <description>Recent content in 2025/10 on The Objective Perspective.  A blog for the Mindful. </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 20 Oct 2025 01:58:51 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/archives/2025/10/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/archives/2025/10/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Four</title>
-      <link>http://localhost:1313/post/four/</link>
+      <link>https://example.com/post/four/</link>
       <pubDate>Mon, 20 Oct 2025 01:58:51 -0700</pubDate>
-      <guid>http://localhost:1313/post/four/</guid>
-      <description>&lt;p&gt;Testing by creating /post/four/index.md instead of /post/four.md. Trying to see which uniformity flows. &lt;img src=&#34;http://localhost:1313/img/cramp.png&#34; alt=&#34;Cramp Logo&#34; title=&#34;super cool&#34;&gt;&#xA;Logo&#xA;&lt;img src=&#34;http://localhost:1313/img/oops.png&#34; alt=&#34;Logo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Logo works with /img/. Need to get logo working from within content folder &lt;img src=&#34;http://localhost:1313/post/four/cramp.png&#34; alt=&#34;Image&#34;&gt;&#xA;The above image works when I set image location to /post/four/cramp.png&lt;/p&gt;&#xA;&lt;p&gt;Image from directly within the container folder: &lt;img src=&#34;cramp.png&#34; alt=&#34;Image&#34;&gt; - Works on Hugo Server. Lets see which works when publishing online.&lt;/p&gt;</description>
+      <guid>https://example.com/post/four/</guid>
+      <description>&lt;p&gt;Testing by creating /post/four/index.md instead of /post/four.md. Trying to see which uniformity flows. &lt;img src=&#34;https://example.com/img/cramp.png&#34; alt=&#34;Cramp Logo&#34; title=&#34;super cool&#34;&gt;&#xA;Logo&#xA;&lt;img src=&#34;https://example.com/img/oops.png&#34; alt=&#34;Logo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Logo works with /img/. Need to get logo working from within content folder &lt;img src=&#34;https://example.com/post/four/cramp.png&#34; alt=&#34;Image&#34;&gt;&#xA;The above image works when I set image location to /post/four/cramp.png&lt;/p&gt;&#xA;&lt;p&gt;Image from directly within the container folder: &lt;img src=&#34;cramp.png&#34; alt=&#34;Image&#34;&gt; - Works on Hugo Server. Lets see which works when publishing online.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

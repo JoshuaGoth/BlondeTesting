@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Objective Perspective.  A blog for the Mindful. </title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://example.com/post/</link>
     <description>Recent content in Posts on The Objective Perspective.  A blog for the Mindful. </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 22 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ai Thirst Trap</title>
-      <link>http://localhost:1313/post/ai-thirst-trap/</link>
+      <link>https://example.com/post/ai-thirst-trap/</link>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/ai-thirst-trap/</guid>
+      <guid>https://example.com/post/ai-thirst-trap/</guid>
       <description>&lt;h3 id=&#34;but-who-cares-right&#34;&gt;&lt;strong&gt;(But Who Cares, Right?)&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Are you enjoying your seamless AI-powered life? You know, the one where you ask ChatGPT to write your emails, let Midjourney create your Instagram aesthetic, and rely on Google Assistant to remind you to drink water (ironic, isn’t it?). Isn’t it just &lt;em&gt;so convenient&lt;/em&gt; to have machines do all the thinking for us? Sure, it’s amazing—until you realize that every time you ask AI to generate a haiku about your cat, it’s guzzling enough water to fill a swimming pool.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Four</title>
-      <link>http://localhost:1313/post/four/</link>
+      <link>https://example.com/post/four/</link>
       <pubDate>Mon, 20 Oct 2025 01:58:51 -0700</pubDate>
-      <guid>http://localhost:1313/post/four/</guid>
-      <description>&lt;p&gt;Testing by creating /post/four/index.md instead of /post/four.md. Trying to see which uniformity flows. &lt;img src=&#34;http://localhost:1313/img/cramp.png&#34; alt=&#34;Cramp Logo&#34; title=&#34;super cool&#34;&gt;&#xA;Logo&#xA;&lt;img src=&#34;http://localhost:1313/img/oops.png&#34; alt=&#34;Logo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Logo works with /img/. Need to get logo working from within content folder &lt;img src=&#34;http://localhost:1313/post/four/cramp.png&#34; alt=&#34;Image&#34;&gt;&#xA;The above image works when I set image location to /post/four/cramp.png&lt;/p&gt;&#xA;&lt;p&gt;Image from directly within the container folder: &lt;img src=&#34;cramp.png&#34; alt=&#34;Image&#34;&gt; - Works on Hugo Server. Lets see which works when publishing online.&lt;/p&gt;</description>
+      <guid>https://example.com/post/four/</guid>
+      <description>&lt;p&gt;Testing by creating /post/four/index.md instead of /post/four.md. Trying to see which uniformity flows. &lt;img src=&#34;https://example.com/img/cramp.png&#34; alt=&#34;Cramp Logo&#34; title=&#34;super cool&#34;&gt;&#xA;Logo&#xA;&lt;img src=&#34;https://example.com/img/oops.png&#34; alt=&#34;Logo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Logo works with /img/. Need to get logo working from within content folder &lt;img src=&#34;https://example.com/post/four/cramp.png&#34; alt=&#34;Image&#34;&gt;&#xA;The above image works when I set image location to /post/four/cramp.png&lt;/p&gt;&#xA;&lt;p&gt;Image from directly within the container folder: &lt;img src=&#34;cramp.png&#34; alt=&#34;Image&#34;&gt; - Works on Hugo Server. Lets see which works when publishing online.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Three</title>
-      <link>http://localhost:1313/post/three/</link>
+      <link>https://example.com/post/three/</link>
       <pubDate>Sun, 19 Oct 2025 13:06:40 -0700</pubDate>
-      <guid>http://localhost:1313/post/three/</guid>
+      <guid>https://example.com/post/three/</guid>
       <description></description>
     </item>
   </channel>

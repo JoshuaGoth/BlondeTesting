@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on The Objective Perspective.  A blog for the Mindful. </title>
-    <link>http://localhost:1313/archives/ai/</link>
+    <link>https://example.com/archives/ai/</link>
     <description>Recent content in AI on The Objective Perspective.  A blog for the Mindful. </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 22 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/archives/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/archives/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ai Thirst Trap</title>
-      <link>http://localhost:1313/post/ai-thirst-trap/</link>
+      <link>https://example.com/post/ai-thirst-trap/</link>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/ai-thirst-trap/</guid>
+      <guid>https://example.com/post/ai-thirst-trap/</guid>
       <description>&lt;h3 id=&#34;but-who-cares-right&#34;&gt;&lt;strong&gt;(But Who Cares, Right?)&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Are you enjoying your seamless AI-powered life? You know, the one where you ask ChatGPT to write your emails, let Midjourney create your Instagram aesthetic, and rely on Google Assistant to remind you to drink water (ironic, isn’t it?). Isn’t it just &lt;em&gt;so convenient&lt;/em&gt; to have machines do all the thinking for us? Sure, it’s amazing—until you realize that every time you ask AI to generate a haiku about your cat, it’s guzzling enough water to fill a swimming pool.&lt;/p&gt;</description>
     </item>
   </channel>
